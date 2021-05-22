@@ -1,4 +1,4 @@
-![bagde](https://img.shields.io/github/languages/top/ErenoGit/AxySnake-Trainer) ![bagde2](https://img.shields.io/badge/.NET%20Framework-4.7.2-green) ![bagde3](https://img.shields.io/badge/Cheat%20Engine-6.2-green)
+![bagde](https://img.shields.io/github/languages/top/ErenoGit/AxySnake-Trainer) ![bagde2](https://img.shields.io/badge/.NET%20Framework-4.7.2-blue) ![bagde3](https://img.shields.io/badge/Cheat%20Engine-6.2-green)
 # DESCRIPTION
 AxySnake Trainer - change HP and score in windows application.
 Program changes memory of the process, allows you to change health points and score in the game.
